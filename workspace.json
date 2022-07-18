@@ -3,6 +3,8 @@
   "version": 2,
   "projects": {
     "main-fe": "apps/main-fe",
-    "main-fe-e2e": "apps/main-fe-e2e"
+    "main-fe-e2e": "apps/main-fe-e2e",
+    "secondary-fe": "apps/secondary-fe",
+    "secondary-fe-e2e": "apps/secondary-fe-e2e"
   }
 }
